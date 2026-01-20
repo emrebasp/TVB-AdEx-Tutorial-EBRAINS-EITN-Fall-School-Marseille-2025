@@ -1,3 +1,5 @@
+# The Virtual Brain environment for whole-brain models
+
 ## What can I find here?
 This repository contains the materials which will be used during the hands-on session on 24 November 2025, during EITN Autumn School 2025, which takes place in Marseille: https://www.ebrains.eu/news-and-events/eitn-ebrains-fall-school-2025.
 
