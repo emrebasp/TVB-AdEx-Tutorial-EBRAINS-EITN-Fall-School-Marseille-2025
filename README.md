@@ -9,10 +9,8 @@ The objective of this hands-on session is to create a familiarity with mean-fiel
 Once downloaded, the participants are suggested to run the cells with the title "Initialization" in "mainAdEx.ipynb" (Part I) and in "Human_TVB_AdEx.ipynb" (Part II) to see and install the necessary packages/dependencies. If the notebooks are run locally, then "%matplotlib widget" should be disabled by commenting it in the relevant cells.
 
 ## References
-Baspinar, E., Cecchini, G., DePass, M., Andujar, M., Pani, P., Ferraina, S., Moreno-Bote, R., Cos, I., Destexhe, A. (2023). A biologically plausible decision-making model based on interacting neural populations. bioRxiv, 2025.
-Di Volo, M., Romagnoni, A., Capone, C., Destexhe, A. (2019).  Biologically realistic mean-field models of conductance-based networks of spiking neurons with adaptation. Neural Computation, 31(4), 653-680.
-Goldman, J. S., Kusch, L., Aquilue, D., Yalçınkaya, B. H., Depannemaecker, D., Ancourt, K., Nghiem, T. E., Jirsa, V., Destexhe, A. (2023). A comprehensive neural simulation of slow-wave sleep and highly responsive wakefulness dynamics. Frontiers in Computational Neuroscience, 16, 1058957.
-Sacha, M., Goldman, J. S., Kusch, L., Destexhe, A. (2024). Asynchronous and slow-wave oscillatory states in connectome-based models of mouse, monkey and human cerebral cortex. Applied Sciences, 14(3), 1063.
-Sanz-Leon P., Knock S. A., Spiegler A., Jirsa V. K. (2015). Mathematical framework for large-scale brain network modeling in The Virtual Brain
-Click and Read
-. NeuroImage, 111, 385-430.
+- Baspinar, E., Cecchini, G., DePass, M., Andujar, M., Pani, P., Ferraina, S., Moreno-Bote, R., Cos, I., Destexhe, A. (2023). A biologically plausible decision-making model based on interacting neural populations. PLoS One, 2026.
+- Di Volo, M., Romagnoni, A., Capone, C., Destexhe, A. (2019).  Biologically realistic mean-field models of conductance-based networks of spiking neurons with adaptation. Neural Computation, 31(4), 653-680.
+- Goldman, J. S., Kusch, L., Aquilue, D., Yalçınkaya, B. H., Depannemaecker, D., Ancourt, K., Nghiem, T. E., Jirsa, V., Destexhe, A. (2023). A comprehensive neural simulation of slow-wave sleep and highly responsive wakefulness dynamics. Frontiers in Computational Neuroscience, 16, 1058957.
+- Sacha, M., Goldman, J. S., Kusch, L., Destexhe, A. (2024). Asynchronous and slow-wave oscillatory states in connectome-based models of mouse, monkey and human cerebral cortex. Applied Sciences, 14(3), 1063.
+- Sanz-Leon P., Knock S. A., Spiegler A., Jirsa V. K. (2015). Mathematical framework for large-scale brain network modeling in The Virtual Brain, NeuroImage, 111, 385-430.
