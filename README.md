@@ -1,7 +1,10 @@
 # The Virtual Brain environment for whole-brain models
 
 ## What can I find here?
-This repository contains the materials which will be used during the hands-on session on 24 November 2025, during EITN Autumn School 2025, which takes place in Marseille: https://www.ebrains.eu/news-and-events/eitn-ebrains-fall-school-2025.
+This repository contains the materials which was used in
+
+- TVB hands-on tutorial on 4 June 2024, which took place in EBRAINS Brain Simulation Workshop 2024, in Bilbao: https://ebrains.eu/news-and-events/events/2024/ebrains-brain-simulation-workshop-2024.
+- TVB hands-on tutorial on 24 November 2025, during EITN Autumn School 2025, which took place in Marseille: https://www.ebrains.eu/news-and-events/eitn-ebrains-fall-school-2025.
 
 The objective of this hands-on session is to create a familiarity with mean-field concepts for the participant by performing simulations related to different brain states. We will see the AdEx mean-field model and its building blocks. We will see example simulations of this mean-field framework in relation to neural population dynamics in different brain states. Finally, we will show a generalization of this framework to the whole-brain scale via TVB.
 
